@@ -1,8 +1,10 @@
-# performance_model
+# Performance model
 Neural network branch predictor integrated into sniper simulator
 
+# Details
+<a href="https://github.com/wedy542700927/performance_model/blob/master/NN.pdf">performance_model/NN.pdf</a>
 
-# comparison of testing data
+# Comparison of testing data
 ```
 ./run-sniper -c gainestown.cfg test/fft/fft
 ```
