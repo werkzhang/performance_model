@@ -1,5 +1,5 @@
 # performance_model
-neural network branch predictor Integrated into sniper simulator
+Neural network branch predictor integrated into sniper simulator
 
 
 # comparison of testing data
